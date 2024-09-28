@@ -5,3 +5,4 @@ Username and Password should be camera credentials.
 IPaddress is network camera ip address.
 Port: '554' is rtsp streaming port. For hikvision it is not necessary but for other cameras maybe mandatory. follow user guide for more information about rtsp url for respective camera
 Channels '101' is streaming channel of camera 101 is for main stream and 102 for secondary stream.
+in this application you can take screenshot of live stream.
